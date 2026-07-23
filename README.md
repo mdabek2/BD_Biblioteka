@@ -37,9 +37,7 @@ Baza danych składa się z siedmiu głównych relacji:
 
 Zależności pomiędzy tablicami zostały zaprojektowane zgodnie z zasadami relacyjnych baz danych z wykorzystaniem kluczy głównych i obcych zapewniających integralność danych.
 
-### Model ER
-
-Diagram ER przedstawiający strukturę bazy danych:
+### Diagram ER przedstawiający strukturę bazy danych:
 
 ![](./Biblioteka_ERD.png)
 
